@@ -1,5 +1,5 @@
-# Desafio do primeiro repositorio Projeto DIO
-Desafio de projeto sobre GitHub
+# Desafio de Projeto sobre Git/Github da DIO
+repositório criado para o desafio do projeto
 
 ## Links Uteis
-[Sintaxe Basica Markdow](https://github.com/eDrumms/dio-desafio-github-primeiro-repo/new/main)
+[URL DO REPOSITORIO](https://github.com/eDrumms/dio-desafio-github-primeiro-repo/new/main)
